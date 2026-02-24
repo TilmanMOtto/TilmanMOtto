@@ -8,7 +8,7 @@ Currently pursuing my Master's in Statistics at ETH Zurich, with a focus on larg
 
 ### What I'm working on
 
-- 🏥 ML for healthcare — structured phenotype extraction from doctors reports
+- 🏥 Data Science in Medicine — structured phenotype extraction from doctors reports
 - 🧠 Research on LLM behavior and AI safety
 - 🚀 TalentKick S26 - more soon!
 
