@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Tilman 👋
 
-<!--
-**TilmanMOtto/TilmanMOtto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build ML and LLM solutions for problems that actually matter.
 
-Here are some ideas to get you started:
+Currently pursuing my Master's in Statistics at ETH Zurich, with a focus on large language models and AI safety. I care about entrepreneurship and building things that have real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+
+- 🏥 ML for healthcare — structured phenotype extraction from doctors reports
+- 🧠 Research on LLM behavior and AI safety
+- 🚀 TalentKick S26 - more soon!
+
+---
+
+### Projects
+
+**[Addax](https://github.com/CipherCircle-StartHack-2025/tilman-data-analysis-and-regression)** — 🏆 Challenge Winner @ StartHack 2025  
+Interactive geospatial dashboard for analyzing land degradation in the Sahel region of Mauritania.  
+`Python` `Geospatial` `LLM Chatbot`
+
+**[Solace](https://github.com/TilmanMOtto/solace)** — Swiss AI Hackathon @ ETH Entrepreneur Club  
+Post-loss administrative companion — LLM-powered support for navigating bureaucracy after bereavement.  
+`JavaScript` `LLM`
+
+**[ML for Healthcare](https://github.com/TilmanMOtto/project-2-ml4hc)**  
+Interpretable ML pipeline for heart disease and pneumonia classification using Lasso, MLPs, NAMs, CNNs, SHAP, and Grad-CAM.  
+`Python` `PyTorch` `SHAP` `Jupyter`
+
+**[WWF Product Analysis](https://github.com/TilmanMOtto/wwf-product-analysis)**  
+LLM agent for WWF automating discount data extraction from supermarket leaflets — saving ~10h/week.  
+`Python` `LLM Agents`
+
+**[Steering Vectors vs GCG Suffix](https://github.com/TilmanMOtto/Steering_vec_vs_gcg_suffix)**  
+Research prototype exploring whether adversarial prompt suffixes can approximate activation steering vectors in LLMs.  
+`Python` `AI Safety` `Mechanistic Interpretability`
+
+---
+
+### Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/t-otto)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TilmanMOtto)
+
+---
+
+*Statistics student. Builder. Optimist about what AI can do when pointed at the right problems.*
