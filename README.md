@@ -20,8 +20,8 @@ Currently pursuing my Master's in Statistics at ETH Zurich, with a focus on larg
 Interactive geospatial dashboard for analyzing land degradation in the Sahel region of Mauritania.  
 `Python` `Geospatial` `LLM Chatbot`
 
-**[Antrophic Hackathon](https://github.com/nibr1609/zenline_hackathon)** — 🏆 Winner @ Antrophic Hackathon 2026
-AI-powered competitor price discovery for Austrian electronics retailers. Semantic matching via vector search + live scraping across expert.at, e-tec.at & more.
+**[Anthropic Hackathon](https://github.com/nibr1609/zenline_hackathon)** — 🏆 Winner @ Anthropic Hackathon 2026  
+AI-powered competitor price discovery for Austrian electronics retailers. Semantic matching via vector search + live scraping across expert.at, e-tec.at & more.  
 `RAG` `LLM Chatbot`
 
 **[ML for Healthcare](https://github.com/TilmanMOtto/project-2-ml4hc)**  
