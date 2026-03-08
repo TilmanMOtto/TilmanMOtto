@@ -20,9 +20,9 @@ Currently pursuing my Master's in Statistics at ETH Zurich, with a focus on larg
 Interactive geospatial dashboard for analyzing land degradation in the Sahel region of Mauritania.  
 `Python` `Geospatial` `LLM Chatbot`
 
-**[Solace](https://github.com/TilmanMOtto/solace)** — Swiss AI Hackathon @ ETH Entrepreneur Club  
-Post-loss administrative companion — LLM-powered support for navigating bureaucracy after bereavement.  
-`JavaScript` `LLM`
+**[Antrophic Hackathon](https://github.com/nibr1609/zenline_hackathon)** — 🏆 Winner @ Antrophic Hackathon 2026
+AI-powered competitor price discovery for Austrian electronics retailers. Semantic matching via vector search + live scraping across expert.at, e-tec.at & more.
+`RAG` `LLM Chatbot`
 
 **[ML for Healthcare](https://github.com/TilmanMOtto/project-2-ml4hc)**  
 Interpretable ML pipeline for heart disease and pneumonia classification using Lasso, MLPs, NAMs, CNNs, SHAP, and Grad-CAM.  
