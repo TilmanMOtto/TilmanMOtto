@@ -25,7 +25,7 @@ AI-powered competitor price discovery for Austrian electronics retailers. Semant
 `RAG` `LLM Chatbot`
 
 **[IBM Hackathon](https://github.com/ralfboltshauser/alethia)** — 🏆 Winner @ IBM Hackathon 2026 
-Digital intake assistant for clinics and doctors, to get detailed context from patients ahead of the appointment and give focused information to the clinicians. 
+Digital intake assistant for clinics and doctors, to get detailed context from patients ahead of the appointment and give focused information to the clinicians.  
 `AI Avatar` `AI in Healthcare`
 
 **[ML for Healthcare](https://github.com/TilmanMOtto/project-2-ml4hc)**  
