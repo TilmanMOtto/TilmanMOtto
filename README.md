@@ -24,7 +24,7 @@ Interactive geospatial dashboard for analyzing land degradation in the Sahel reg
 AI-powered competitor price discovery for Austrian electronics retailers. Semantic matching via vector search + live scraping across expert.at, e-tec.at & more.  
 `RAG` `LLM Chatbot`
 
-**[IBM Hackathon](https://github.com/ralfboltshauser/alethia)** — 🏆 Winner @ IBM Hackathon 2026 
+**[IBM Hackathon](https://github.com/ralfboltshauser/alethia)** — 🏆 Winner @ IBM Hackathon 2026   
 Digital intake assistant for clinics and doctors, to get detailed context from patients ahead of the appointment and give focused information to the clinicians.  
 `AI Avatar` `AI in Healthcare`
 
